@@ -1,4 +1,11 @@
-https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries
+Data Jobs Salaries
+
+This dataset was retrieved from the page https://ai-jobs.net/salaries/download/
+This dataset is on [kaggle](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries)
+
+
+
+
 https://chat.openai.com/share/3740fff8-ef5f-4553-a71e-710791dfce51
 
 work_year: The year the salary was paid.
