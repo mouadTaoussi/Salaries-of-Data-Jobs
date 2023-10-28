@@ -1,6 +1,6 @@
 ## Data Jobs Salaries
 
-This dataset was retrieved from this [page](https://ai-jobs.net/salaries/download/)
+This dataset was retrieved from this [page](https://ai-jobs.net/salaries/download/)</br>
 This dataset is on [kaggle](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries)
 
 This repository contains analysis about data jobs globally across different experience levels and different backgounds, the main process for these analysis starts from cleaning and wragling data using the Pandas library in Python, then, the output has been used to create a report using the Power BI tool for business intelligence.
@@ -46,31 +46,31 @@ Our dataset contains the columns as shown below:
 These questions below and visualizations should help us to get started with out data visualization report:
 
 **General Analysis:**</br>
-   1. **What is the distribution of salaries across different years?**
-   2. **How does salary vary by experience level?**
-   3. **What is the most common employment type in the dataset?**
-   4. **What are the top job titles in the dataset?**
-   5. **What is the distribution of salaries by job title?**
-   6. **How does salary vary by employee residence country?**
-   7. **Is there a correlation between the remote work ratio and salary?**
+   1. What is the distribution of salaries across different years?</br>
+   2. How does salary vary by experience level?</br>
+   3. What is the most common employment type in the dataset?</br>
+   4. What are the top job titles in the dataset?</br>
+   5. What is the distribution of salaries by job title?</br>
+   6. How does salary vary by employee residence country?</br>
+   7. Is there a correlation between the remote work ratio and salary?</br>
 
 **Currency Conversion:**</br>
-   8. **How does the salary in USD vary across different years?**
-   9. **What is the distribution of salaries in USD by experience level?**
-   10. **How does salary in USD vary by job title?**
+   8. How does the salary in USD vary across different years?</br>
+   9. What is the distribution of salaries in USD by experience level?</br>
+   10. How does salary in USD vary by job title?</br>
 
 **Remote Work:**</br>
-   11. **What is the distribution of remote work ratios in the dataset?**
+   11. What is the distribution of remote work ratios in the dataset?</br>
 
 **Geographic Analysis:**</br>
-   12. **How does the company's location relate to the salary in USD?**
+   12. How does the company's location relate to the salary in USD?</br>
 
 **Time-Series Analysis:**</br>
-   13. **Are there any seasonal trends or patterns in salaries over the years?**
+   13. Are there any seasonal trends or patterns in salaries over the years?</br>
 
 **Combining Factors:**</br>
-   14. **How does the combination of experience level and employment type affect salary?**
-   15. **Is there a relationship between remote work and salary, considering experience level and employment type?**
+   14. How does the combination of experience level and employment type affect salary?</br>
+   15. Is there a relationship between remote work and salary, considering experience level and employment type?</br>
 
 
 
