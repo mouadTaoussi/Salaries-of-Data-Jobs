@@ -45,7 +45,7 @@ Our dataset contains the columns as shown below:
 
 These questions below and visualizations should help us to get started with out data visualization report:
 
-**General Analysis:**
+**General Analysis:**</br>
 1. **What is the distribution of salaries across different years?**
    - Visualization: Line chart showing how salaries change over the years.
 
@@ -67,7 +67,7 @@ These questions below and visualizations should help us to get started with out 
 7. **Is there a correlation between the remote work ratio and salary?**
    - Visualization: Scatter plot with remote work ratio on one axis and salary on the other.
 
-**Currency Conversion:**
+**Currency Conversion:**</br>
 8. **How does the salary in USD vary across different years?**
    - Visualization: Line chart showing salary in USD over the years.
 
@@ -77,19 +77,19 @@ These questions below and visualizations should help us to get started with out 
 10. **How does salary in USD vary by job title?**
     - Visualization: Grouped bar chart or violin plot showing salary distributions in USD for different job titles.
 
-**Remote Work:**
+**Remote Work:**</br>
 11. **What is the distribution of remote work ratios in the dataset?**
     - Visualization: Bar chart or pie chart to show the proportion of fully remote, partially remote, and non-remote roles.
 
-**Geographic Analysis:**
+**Geographic Analysis:**</br>
 12. **How does the company's location relate to the salary in USD?**
     - Visualization: Geospatial map showing average salaries in USD by the country of the employer's main office.
 
-**Time-Series Analysis:**
+**Time-Series Analysis:**</br>
 13. **Are there any seasonal trends or patterns in salaries over the years?**
     - Visualization: Time series decomposition or seasonal plot to identify patterns.
 
-**Combining Factors:**
+**Combining Factors:**</br>
 14. **How does the combination of experience level and employment type affect salary?**
     - Visualization: Heatmap or grouped bar chart showing salary variations for different combinations of experience level and employment type.
 
