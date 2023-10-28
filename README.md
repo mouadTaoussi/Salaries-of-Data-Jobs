@@ -46,32 +46,28 @@ Our dataset contains the columns as shown below:
 These questions below and visualizations should help us to get started with out data visualization report:
 
 **General Analysis:**</br>
-   1. What is the distribution of salaries across different years?</br>
-   2. How does salary vary by experience level?</br>
-   3. What is the most common employment type in the dataset?</br>
-   4. What are the top job titles in the dataset?</br>
-   5. What is the distribution of salaries by job title?</br>
-   6. How does salary vary by employee residence country?</br>
-   7. Is there a correlation between the remote work ratio and salary?</br>
+   1. What is the distribution of salaries across different years?
+   2. How does salary vary by experience level?
+   3. What is the most common employment type in the dataset?
+   4. What are the top job titles in the dataset?
+   5. What is the distribution of salaries by job title?
+   6. How does salary vary by employee residence country?
+   7. Is there a correlation between the remote work ratio and salary?
 
 **Currency Conversion:**</br>
-   8. How does the salary in USD vary across different years?</br>
-   9. What is the distribution of salaries in USD by experience level?</br>
-   10. How does salary in USD vary by job title?</br>
+   8. How does the salary in USD vary across different years?
+   9. What is the distribution of salaries in USD by experience level?
+   10. How does salary in USD vary by job title?
 
 **Remote Work:**</br>
-   11. What is the distribution of remote work ratios in the dataset?</br>
+   11. What is the distribution of remote work ratios in the dataset?
 
 **Geographic Analysis:**</br>
-   12. How does the company's location relate to the salary in USD?</br>
+   12. How does the company's location relate to the salary in USD?
 
 **Time-Series Analysis:**</br>
-   13. Are there any seasonal trends or patterns in salaries over the years?</br>
+   13. Are there any seasonal trends or patterns in salaries over the years?
 
 **Combining Factors:**</br>
-   14. How does the combination of experience level and employment type affect salary?</br>
-   15. Is there a relationship between remote work and salary, considering experience level and employment type?</br>
-
-
-
-https://chat.openai.com/share/3740fff8-ef5f-4553-a71e-710791dfce51
+   14. How does the combination of experience level and employment type affect salary?
+   15. Is there a relationship between remote work and salary, considering experience level and employment type?
