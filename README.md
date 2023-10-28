@@ -1,9 +1,9 @@
 ## Data Jobs Salaries
 
+This repository contains analysis about data jobs globally across different experience levels and different backgounds, the main process for these analysis starts from cleaning and wragling data using the Pandas library in Python, then, the output has been used to create a report using the Power BI tool for business intelligence.
+
 This dataset was retrieved from this [page](https://ai-jobs.net/salaries/download/)</br>
 This dataset is on [kaggle](https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries)
-
-This repository contains analysis about data jobs globally across different experience levels and different backgounds, the main process for these analysis starts from cleaning and wragling data using the Pandas library in Python, then, the output has been used to create a report using the Power BI tool for business intelligence.
 
 
 ## Data elements
