@@ -1,13 +1,14 @@
-### Data Jobs Salaries
+## Data Jobs Salaries
 
 This dataset was retrieved from this (page)[https://ai-jobs.net/salaries/download/]
 This dataset is on (kaggle)[https://www.kaggle.com/datasets/lorenzovzquez/data-jobs-salaries]
 
-This repository contains analysis about data jobs globally across diffrent experience levels and different backgounds, the main process for these analysis starts from cleaning and wragling data using the Pandas library in Python, then, the output has been used to create a report using the Power BI tool for business intelligence.
+This repository contains analysis about data jobs globally across different experience levels and different backgounds, the main process for these analysis starts from cleaning and wragling data using the Pandas library in Python, then, the output has been used to create a report using the Power BI tool for business intelligence.
 
 
+## Data elements
 
-https://chat.openai.com/share/3740fff8-ef5f-4553-a71e-710791dfce51
+Our dataset contains the columns as shown below:
 
 work_year: The year the salary was paid.
 
@@ -85,3 +86,8 @@ Great, you have provided the column names and descriptions for your dataset rela
 
 
 These questions and visualizations should help you get started with your data visualization report. Depending on your specific objectives and the insights you want to gain from the data, you can customize these questions and visuals to suit your needs.
+
+
+
+
+https://chat.openai.com/share/3740fff8-ef5f-4553-a71e-710791dfce51
