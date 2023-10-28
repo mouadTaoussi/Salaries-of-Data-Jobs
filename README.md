@@ -10,28 +10,40 @@ This repository contains analysis about data jobs globally across different expe
 
 Our dataset contains the columns as shown below:
 
-work_year: The year the salary was paid.
+**work_year**: The year the salary was paid.
 
-experience_level: The experience level in the job during the year with the following possible values: - EN: Entry-level / Junior - MI: Mid-level / Intermediate - SE: Senior-level / Expert - EX: Executive-level / Director
+**experience_level**: The experience level in the job during the year with the following possible values:
+ - EN: Entry-level / Junior 
+ - MI: Mid-level / Intermediate 
+ - SE: Senior-level / Expert 
+ - EX: Executive-level / Director
 
-employment_type: The type of employement for the role: - PT: Part-time - FT: Full-time - CT: Contract - FL: Freelance
+**employment_type**: The type of employement for the role, mainly: 
+- PT: Part-time 
+- FT: Full-time 
+- CT: Contract 
+- FL: Freelance
 
-job_title: The role worked in during the year.
+**job_title**: The role worked in during the year.
 
-salary: The total gross salary amount paid.
+**salary**: The total gross salary amount paid.
 
-salary_currency: The currency of the salary paid as an ISO 4217 currency code.
+**salary_currency**: The currency of the salary paid as an ISO 4217 currency code.
 
-salary_in_usd: The salary in USD (FX rate divided by avg. USD rate of respective year via data from fxdata.foorilla.com).
+**salary_in_usd**: The salary in USD (FX rate divided by avg. USD rate of respective year via data from fxdata.foorilla.com).
 
-employee_residence: Employee's primary country of residence in during the work year as an ISO 3166 country code.
+**employee_residence**: Employee's primary country of residence in during the work year as an ISO 3166 country code.
 
-remote_ratio: The overall amount of work done remotely, possible values are as follows: - 0: No remote work (less than 20%) - 50: Partially remote/hybrid - 100: Fully remote (more than 80%)
+**remote_ratio**: The overall amount of work done remotely, possible values are as follows: 
+- 0: No remote work (less than 20%) 
+- 50: Partially remote/hybrid 
+- 100: Fully remote (more than 80%)
 
-company_location: The country of the employer's main office or contracting branch as an ISO 3166 country code.
+**company_location**: The country of the employer's main office or contracting branch as an ISO 3166 country code.
 
+## Key questions
 
-Great, you have provided the column names and descriptions for your dataset related to salaries in data-related fields. To help you create a data visualization report, here are some key questions and potential visualizations you can consider for each aspect of the data:
+These questions below and visualizations should help us to get started with out data visualization report:
 
 **General Analysis:**
 1. **What is the distribution of salaries across different years?**
@@ -83,9 +95,6 @@ Great, you have provided the column names and descriptions for your dataset rela
 
 15. **Is there a relationship between remote work and salary, considering experience level and employment type?**
     - Visualization: Scatter plot matrix or a series of scatter plots with different combinations of factors.
-
-
-These questions and visualizations should help you get started with your data visualization report. Depending on your specific objectives and the insights you want to gain from the data, you can customize these questions and visuals to suit your needs.
 
 
 
